@@ -1,6 +1,8 @@
 title: CODEX 2026
 description: GuideBook for CODEX 2026
-theme: just-the-docs
+plugins:
+  - jekyll-remote-theme
+remote_theme: benbalter/retlab@latest
 color_scheme: dark
 
 url: https://just-the-docs.github.io
