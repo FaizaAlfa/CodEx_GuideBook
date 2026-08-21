@@ -1,7 +1,7 @@
 title: CODEX 2026
 description: GuideBook for CODEX 2026
-remote_theme: just-the-docs/just-the-docs
+theme: just-the-docs
 color_scheme: dark
 
-url: ""
-baseurl: ""
+url: "https://FaizaAlfa.github.io"
+baseurl: "/CodEx_GuideBook"
