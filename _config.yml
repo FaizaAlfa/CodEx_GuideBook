@@ -1,6 +1,6 @@
 title: CODEX 2026
 description: GuideBook for CODEX 2026
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 color_scheme: dark
 
 url: ""
