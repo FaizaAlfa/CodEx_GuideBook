@@ -62,6 +62,14 @@ Capture The Flag adalah kompetisi pemecahan masalah yang dikaji sistem keamanan 
 
 ## Teknis Lomba
 
+### Penggunaan AI
+
+1. Penggunaan AI berbasis chat interface diperbolehkan sebagai alat bantu pembelajaran, referensi, analisis, atau diskusi selama tidak menyelesaikan challenge secara mandiri.
+2. Penggunaan AI Agent, AI CLI, autonomous agent, workflow otomatis, atau sistem berbasis AI yang dapat menyelesaikan challenge secara mandiri tanpa intervensi signifikan peserta tidak diperbolehkan.
+3. Peserta dilarang memasukkan challenge, file challenge, maupun konteks soal secara utuh ke dalam AI untuk memperoleh solusi atau flag secara langsung.
+4. Apabila menggunakan bantuan AI dalam penyelesaian challenge, peserta wajib mencantumkan sumber AI dan riwayat percakapan yang relevan pada referensi write-up.
+5. Bantuan AI yang menghasilkan flag secara langsung, exploit final secara penuh, atau write-up final tanpa proses peserta dapat dianggap sebagai pelanggaran.
+
 ### Sistem Penilaian
 
 1. Setiap soal memiliki bobot nilai yang bersifat dinamis, dimana nilai akan berkurang seiring dengan banyaknya peserta yang dapat menyelesaikan soal tersebut.
