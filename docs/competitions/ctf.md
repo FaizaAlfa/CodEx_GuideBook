@@ -19,6 +19,7 @@ Capture The Flag adalah kompetisi pemecahan masalah yang dikaji sistem keamanan 
   - [Tahapan Lomba](#tahapan-lomba)
     - [Kompetisi](#kompetisi)
   - [Teknis Lomba](#teknis-lomba)
+    - [Penggunaan AI](#penggunaan-ai)
     - [Sistem Penilaian](#sistem-penilaian)
     - [Ketentuan Diskualifikasi](#ketentuan-diskualifikasi)
     - [Penghargaan](#penghargaan)
