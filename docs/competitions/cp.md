@@ -53,37 +53,30 @@ Competitive Programming adalah kompetisi yang diadakan untuk menguji kemampuan d
 
 ### Kompetisi
 
-1. Kompetisi dilakukan secara _online_. _Platform_ kompetisi adalah [HackerRank](https://www.hackerrank.com/).
-2. Kompetisi akan dilakukan selama 3 jam pada tanggal ~~4 Oktober 2026 pukul 07.30 – 15.00 WIB~~. 
+1. Kompetisi dilakukan secara _offline_. Platform kompetisi yang digunakan adalah *DOMjudge*.
+2. Kompetisi akan dilakukan selama 3 jam pada tanggal 4 Oktober 2026 pukul 9.00 – 12.00 WIB. 
 
-## Teknis Lomba
+## Teknis & Peraturan Lomba
 
-### Sistem Penilaian
+### Pengiriman Kode & Penilaian
 
-1. Setiap jawaban yang dikirimkan merupakan kode yang ditulis menggunakan salah satu bahasa pemrograman yang diperbolehkan.
-2. Program peserta menerima masukan dari _standard input_ dan memberikan keluaran melalui _standard output_.
-3. Program peserta akan diuji oleh beberapa kasus uji yang diberikan guna megecek kebenaran program.
-4. Nilai yang diberikan untuk suatu soal tergantung dari jumlah kasus uji yang berhasil dilewati program. Jika semua kasus uji berhasil dilewati, maka peserta akan diberikan nilai penuh untuk soal tersebut.
-5. Peringkat peserta akan diurutkan berdasarkan nilai akhir yang didapatkan peserta.
-6. Jika ada 2 (dua) peserta atau lebih yang memiliki nilai akhir yang sama, peserta tersebut akan diurutkan berdasarkan total waktu pengumpulan soal yang benar ditambah dengan penalti.
+1. Peserta dapat menggunakan bahasa pemrograman C, C++, Java, atau Python. Pastikan ekstensi berkas sesuai dengan bahasa yang dipilih di _platform_.
+2. Perhatikan umpan balik (_verdict_) dari sistem secara berkala (misalnya: _Accepted, Wrong Answer, Time Limit Exceeded_, dan lainnya).
+3. Jika terdapat kendala teknis atau ambiguitas dalam teks soal, gunakan fitur _Clarification_ pada platform DOMjudge. Pertanyaan terkait solusi, petunjuk, atau strategi penyelesaian soal tidak akan dijawab. 
+
+### Sumber Daya yang Diperbolehkan
+
+1. Diizinkan akses internet hanya untuk mencari referensi sintaksis (_syntax references_) dan _code snippet_ milik pribadi.
+2. Diizinkan membawa dan menggunakan kertas kosong serta alat tulis (pulpen/pensil) untuk pengerjaan logika (_scratch work_).
 
 ### Ketentuan Diskualifikasi
 
-Peserta yang terindikasi melakukan:
-1. kerja sama dengan tim dan/atau orang lain,
-2. plagiarisme terhadap pekerjaan tim dan/atau orang lain,
-3. perbuatan yang mengganggu tim lain,
-4. perbuatan kecurangan atau pelanggaran lainnya,
-5. perbuatan yang mengganggu jalannya kompetisi, atau
-6. pembuatan program yang:
-    - menyerang server web lomba,
-    - mengakses jaringan,
-    - membuka dan/atau membuat file,
-    - mengganti informasi dan/atau hak akses file,
-    - mengeksekusi program lain,
-    - membuat system call, atau
-    - menyerang sistem dalam bentuk apapun.
-
+1. Menggunakan jasa pihak ketiga (_ghostwriting_/joki).
+2. Menggunakan teknologi kecerdasan buatan (_Artificial Intelligence_ / AI) maupun _Large Language Model_ (seperti ChatGPT, Gemini, dll.).
+3. Menggunakan alat bantu pengodean berbasis AI (seperti GitHub Copilot).
+4. Bekerja sama, berdiskusi, atau berkomunikasi dengan peserta lain selama kompetisi berlangsung.
+5. Peserta yang terbukti melanggar aturan di atas atau melakukan bentuk kecurangan apa pun akan langsung didiskualifikasi dari proses seleksi.
+6. Hasil akhir seleksi bersifat mutlak dan tidak dapat diganggu gugat.
 
 ### Penghargaan
 
@@ -92,9 +85,9 @@ Seluruh peserta akan mendapatkan sertifikat. Bagi pemenang (Juara 1, 2, 3) diber
 
 | Peringkat           | Penghargaan            |
 |---------------------|------------------------|
-| Juara 1             | Tumbler + Totebag + Keychain + Full sticker pack exclusive BCC |
-| Juara 2             | Totebag + Keychain + Mini sticker pack exclusive BCC |
-| Juara 3             | Totebag exclusive BCC |
+| Juara 1             | Secret                 |
+| Juara 2             | Secret                 |
+| Juara 3             | Secret                 |
 
 Catatan: Khusus untuk peserta angkatan 2024, peringkat yang bisa didapatkan hanyalah **1 posisi**. Misalkan terdapat 2 peserta angkatan 2024 yang menempati peringkat manapun, maka peserta dengan peringkat lebih rendah akan dianulir. 
 
@@ -102,5 +95,5 @@ Catatan: Khusus untuk peserta angkatan 2024, peringkat yang bisa didapatkan hany
 
 Apabila terdapat informasi yang kurang jelas atau ada pertanyaan lainnya, dapat segera menghubungi narahubung berikut:
 
-- 👤[WA]: [+62 000000000000](https:wa.me/+6200000000000) (xxxxx)
-- 👤[WA]: [+62 000000000000](https:wa.me/+6200000000000) (xxxxx)
+- 👤[WA]: [+62 85733601809](https:wa.me/+6285733601809) (Arfa)
+- 👤[WA]: [+62 8996823333](https:wa.me/+628996823333) (Nadya)

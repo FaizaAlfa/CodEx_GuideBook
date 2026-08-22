@@ -32,13 +32,13 @@ Ada dua kegiatan utama yang akan diadakan dalam acara CODEX 2026.
 
 ## Why Should I Join?
 
-Selama tahun 2026, kita sering melihat kompetisi yang diadakan di Universitas Brawijaya lebih banyak berfokus pada bidang kreatif seperti desain _(art)_ dan olahraga _(sports)_. Hal ini tentunya positif karena membantu mahasiswa mengasah kemampuan di luar perkuliahan. Namun, sayangnya, kompetisi yang terkait langsung dengan bidang akademik, terutama pemrograman dan keamanan siber, masih jarang terlihat. Padahal, kedua bidang ini adalah inti dari pendidikan Ilmu Komputer, namun belum mendapat eksposur yang cukup.
+Lanskap teknologi di era kecerdasan buatan (AI) saat ini bergerak sangat cepat. Sayangnya, kita masih sering melihat kompetisi di lingkungan Universitas Brawijaya lebih didominasi oleh bidang kreatif seperti desain (_art_) dan olahraga (_sports_). Meskipun bagus untuk pengembangan bakat non-akademik, ekosistem kompetisi teknikal yang menyentuh inti dari Ilmu Komputer seperti pemrograman tingkat lanjut dan keamanan siber masih belum mendapatkan panggung yang sepadan.
 
-Melalui kegiatan ini, kami ingin menghadirkan sebuah wadah bagi mahasiswa yang memiliki minat atau bakat di bidang _Competitive Programming (CP)_ dan keamanan siber _Capture The Flag (CTF)_. CP, yang merupakan dasar dari banyak teknologi digital, sering terabaikan di tengah maraknya kompetisi _UI/UX_ dan _business case_. Padahal, kemampuan CP sangat penting untuk karir di berbagai bidang seperti _software engineering_, _data science_, hingga _Internet of Things (IoT)_. Jika kalian memiliki dasar pemrograman yang kuat, apapun bidang yang kalian geluti di masa depan, kalian akan lebih siap, kompetitif serta cepat beradaptasi.
+Di tengah maraknya tren _UI/UX_ dan _business case_, fondasi teknis yang solid kerap terabaikan. Padahal, logika berpikir kritis melalui _Competitive Programming_ (_CP_) adalah ilmu mendasar yang dibutuhkan di era AI, _software engineering_, _data science_, hingga _cloud architecture_. Pemahaman logika yang kuat membuat Anda tak hanya sekadar menjadi pengguna teknologi, tetapi juga pembangun solusi yang tangguh, adaptif, dan sulit tergantikan.
 
-Di sisi lain, bidang keamanan siber juga belum banyak terekspos meski memiliki prospek kerja yang luar biasa di Indonesia. Banyak mahasiswa yang tertarik tetapi bingung harus mulai dari mana. Oleh karena itu, kami mengadakan workshop dan kompetisi _Capture The Flag (CTF)_, yang akan menjadi langkah awal untuk mengeksplorasi dunia keamanan siber lebih dalam. Selain sebagai ajang pembelajaran, kompetisi ini juga merupakan penghargaan bagi mereka yang sudah memiliki keahlian di bidang ini.
+Di sisi lain, seiring masifnya adopsi teknologi digital, tantangan keamanan siber (_cybersecurity_) menjadi sangat krusial. Banyak mahasiswa penasaran dengan dunia _hacking_ dan _cyber defense_, namun bingung harus melangkah dari mana. Melalui kompetisi _Capture The Flag_ (_CTF_) dan rangkaian workshop di acara ini, hadir untuk memfasilitasi peserta melangkah dari level pemula.
 
-Kami berharap dengan mengadakan _CODEX_, minat mahasiswa Universitas Brawijaya terhadap pemrograman dan keamanan siber semakin meningkat. Bagi kalian yang masih pemula, jangan khawatir, karena kami juga akan mengadakan workshop bersama para ahli di bidangnya. Ini kesempatan kalian untuk belajar, berkembang, dan menorehkan prestasi. Jadi, kenapa tidak ikut? Sudah waktunya untuk menggali potensi di luar _UI/UX_ dan _business case_!
+CODEX 2026 hadir sebagai ruang pembuktian sekaligus tempat tumbuh bagi seluruh mahasiswa Universitas Brawijaya. Baik Anda yang baru ingin memulai (_beginner_) maupun yang sudah berpengalaman, inilah saatnya menguji batasan diri, mengasah keahlian teknis secara nyata, dan mencetak prestasi.
 
 ## Last Words
 
@@ -48,5 +48,5 @@ Kami mengadakan kegiatan ini sepenuhnya untuk membuka wawasan mahasiswa Universi
 
 Apabila terdapat informasi yang kurang jelas atau ada pertanyaan lainnya, dapat segera menghubungi narahubung berikut:
 
-- 👤[WA]: [+62 000000000000](https:wa.me/+6200000000000) (xxxxx)
-- 👤[WA]: [+62 000000000000](https:wa.me/+6200000000000) (xxxxx)
+- 👤[WA]: [+62 85733601809](https:wa.me/+6285733601809) (Arfa)
+- 👤[WA]: [+62 8996823333](https:wa.me/+628996823333) (Nadya)

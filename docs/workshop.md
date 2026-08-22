@@ -30,7 +30,7 @@ CODEX mengadakan _workshop_ dengan tujuan untuk memperkenalkan bidang lomba yang
 
 ## Prosedur Pendaftaran
 
-1. Periode pendaftaran _workshop_ ada di tanggal awal sept - akhir sept 26.
+1. Periode pendaftaran _workshop_ ada di tanggal 00 September - 00 September 2026.
 2. Peserta dapat mendaftar melalui URL berikut: [http://clips.my.id/FormRegistrasiWorkshopCodEx2026](http://clips.my.id/FormRegistrasiWorkshopCodEx2026).
 3. Setelah mendaftar, peserta dapat bergabung ke grup WhatsApp yang tercantum pada pesan di akhir pengisian form.
 4. Bagi peserta yang mengalami kendala pada proses pendaftaran dimohon untuk segera menghubungi narahubung perlombaan yang tertera di akhir halaman ini.
@@ -38,14 +38,14 @@ CODEX mengadakan _workshop_ dengan tujuan untuk memperkenalkan bidang lomba yang
 ## Jadwal Workshop
 
 
-| Tanggal                       | Kegiatan          | Keterangan                    |
-|-------------------------------|-------------------|-------------------------------|
-| Awal sept - akhir sept 2026   | Pendaftaran       | Dilakukan pada URL di atas    |
-| Minggu, 27 September 2026     | Workshop          | Ruang GKM 3.1                 |
+| Tanggal                            | Kegiatan          | Keterangan                    |
+|------------------------------------|-------------------|-------------------------------|
+| 00 September - 00 September 2026   | Pendaftaran       | Dilakukan pada URL di atas    |
+| Minggu, 27 September 2026          | Workshop          | Ruang GKM 3.1                 |
 
 ## Narahubung
 
 Apabila terdapat informasi yang kurang jelas atau ada pertanyaan lainnya, dapat segera menghubungi narahubung berikut:
 
-- 👤[WA]: [+62 000000000000](https:wa.me/+6200000000000) (xxxxx)
-- 👤[WA]: [+62 000000000000](https:wa.me/+6200000000000) (xxxxx)
+- 👤[WA]: [+62 85733601809](https:wa.me/+6285733601809) (Arfa)
+- 👤[WA]: [+62 8996823333](https:wa.me/+628996823333) (Nadya)

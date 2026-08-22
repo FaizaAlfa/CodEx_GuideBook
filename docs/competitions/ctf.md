@@ -35,7 +35,7 @@ Capture The Flag adalah kompetisi pemecahan masalah yang dikaji sistem keamanan 
 
 ## Prosedur Pendaftaran
 
-1. Periode pendaftaran lomba ada di tanggal ~~28 September - 3 Oktober 2026~~. 
+1. Periode pendaftaran lomba ada di tanggal 00 September - 00 September 2026. 
 2. Peserta dapat mendaftar melalui URL berikut: [http://clips.my.id/FormRegistrasiKompetisiCodEx2026](http://clips.my.id/FormRegistrasiKompetisiCodEx2026).
 3. Setelah mendaftar, peserta dapat bergabung ke grup WhatsApp yang tercantum pada pesan di akhir pengisian form.
 4. Bagi tim yang mengalami kendala pada proses pendaftaran dimohon untuk segera menghubungi narahubung perlombaan yang tertera di akhir halaman ini.
@@ -58,7 +58,7 @@ Capture The Flag adalah kompetisi pemecahan masalah yang dikaji sistem keamanan 
 2. Format kompetisi adalah _jeopardy_.
 3. Kompetisi akan dilakukan selama 5 hari dari tanggal 28 September 2026 pukul 09:00 WIB hingga 3 Oktober 2026 pukul 17:00 WIB. 
 4. _Scoreboard_ dari kompetisi akan dibekukan 1 jam sebelum kompetisi selesai. Selama _scoreboard_ dibekukan, setiap peserta tetap dapat mengerjakan dan melakukan _submit_ pada _flag_, tetapi skor akhir tidak akan ditampilkan pada _scoreboard_.
-5. Setelah kompetisi selesai, setiap peserta **wajib** membuat _write-up_, yaitu dokumen yang berisi langkah pengerjaan dari setiap tantangan yang berhasil diselesaikan, dan dikumpulkan di _form_ yang disediakan nantinya. Dokumen diharapkan memenuhi format penamaan `[NIM]_Writeup_Codex.pdf` (contoh: `265150200111067_Writeup_Codex.pdf`). Dokumen dikumpulkan maksimal pada tanggal ~~3 Oktober 2026 pukul 23:59 WIB~~. 
+5. Setelah kompetisi selesai, setiap peserta **wajib** membuat _write-up_, yaitu dokumen yang berisi langkah pengerjaan dari setiap tantangan yang berhasil diselesaikan, dan dikumpulkan di _form_ yang disediakan nantinya. Dokumen diharapkan memenuhi format penamaan `[NIM]_Writeup_Codex.pdf` (contoh: `265150200111067_Writeup_Codex.pdf`). Dokumen dikumpulkan maksimal pada tanggal 00 Oktober 2026 pukul 23:59 WIB. 
 
 ## Teknis Lomba
 
@@ -98,9 +98,9 @@ Seluruh peserta akan mendapatkan sertifikat. Bagi pemenang (Juara 1, 2, 3) diber
 
 | Peringkat           | Penghargaan            |
 |---------------------|------------------------|
-| Juara 1             | Secret |
-| Juara 2             | Secret |
-| Juara 3             | Secret |
+| Juara 1             | Secret                 |
+| Juara 2             | Secret                 |
+| Juara 3             | Secret                 |
 
 Catatan: Khusus untuk peserta angkatan 2024, peringkat yang bisa didapatkan hanyalah **1 posisi**. Misalkan terdapat 2 peserta angkatan 2024 yang menempati peringkat manapun, maka peserta dengan peringkat lebih rendah akan dianulir. 
 
@@ -108,5 +108,5 @@ Catatan: Khusus untuk peserta angkatan 2024, peringkat yang bisa didapatkan hany
 
 Apabila terdapat informasi yang kurang jelas atau ada pertanyaan lainnya, dapat segera menghubungi narahubung berikut:
 
-- 👤[WA]: [+62 000000000000](https:wa.me/+6200000000000) (xxxxx)
-- 👤[WA]: [+62 000000000000](https:wa.me/+6200000000000) (xxxxx)
+- 👤[WA]: [+62 85733601809](https:wa.me/+6285733601809) (Arfa)
+- 👤[WA]: [+62 8996823333](https:wa.me/+628996823333) (Nadya)
