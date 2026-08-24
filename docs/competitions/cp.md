@@ -37,7 +37,7 @@ Competitive Programming adalah kompetisi yang diadakan untuk menguji kemampuan d
 ## Prosedur Pendaftaran
 
 1. Periode pendaftaran lomba ada di tanggal ~~00 September - 00 September 2026~~. 
-2. Peserta dapat mendaftar melalui URL berikut: [http://clips.my.id/FormRegistrasiKompetisiCodEx2026](http://clips.my.id/FormRegistrasiKompetisiCodEx2026). 
+2. Peserta dapat mendaftar melalui URL berikut: [https://clips.id/FormRegistrasiPesertaCodEx2026](https://clips.id/FormRegistrasiPesertaCodEx2026). 
 3. Setelah mendaftar, peserta dapat bergabung ke grup WhatsApp yang tercantum pada pesan di akhir pengisian form.
 4. Bagi tim yang mengalami kendala pada proses pendaftaran dimohon untuk segera menghubungi narahubung perlombaan yang tertera di akhir halaman ini.
 
