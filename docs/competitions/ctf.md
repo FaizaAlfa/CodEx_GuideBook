@@ -36,7 +36,7 @@ Capture The Flag adalah kompetisi pemecahan masalah yang dikaji sistem keamanan 
 
 ## Prosedur Pendaftaran
 
-1. Periode pendaftaran lomba ada di tanggal 00 September - 00 September 2026. 
+1. Periode pendaftaran lomba ada di tanggal 05 September - 20 September 2026. 
 2. Peserta dapat mendaftar melalui URL berikut dengan akun UB: [https://clips.id/FormRegistrasiPesertaCodEx2026](https://clips.id/FormRegistrasiPesertaCodEx2026).
 3. Setelah mendaftar, peserta dapat bergabung ke grup WhatsApp yang tercantum pada pesan di akhir pengisian form.
 4. Bagi tim yang mengalami kendala pada proses pendaftaran dimohon untuk segera menghubungi narahubung perlombaan yang tertera di akhir halaman ini.
@@ -46,7 +46,7 @@ Capture The Flag adalah kompetisi pemecahan masalah yang dikaji sistem keamanan 
 
 | Tanggal                             | Kegiatan          | Keterangan                    |
 |-------------------------------------|-------------------|-------------------------------|
-| 00 September - 00 September 2026    | Pendaftaran       | Dilakukan pada URL di atas    |
+| 05 September - 20 September 2026    | Pendaftaran       | Dilakukan pada URL di atas    |
 | 28 September - 3 Oktober 2026       | Pelaksanaan Lomba | Dilakukan pada platform lomba |
 | 3 Oktober 2026                      | Penulisan Writeup | Dilakukan secara pribadi      |
 | 4 Oktober 2026                      | Pengumuman        | Dilakukan secara online       |
