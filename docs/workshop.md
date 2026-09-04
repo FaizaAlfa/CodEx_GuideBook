@@ -31,7 +31,7 @@ CODEX mengadakan _workshop_ dengan tujuan untuk memperkenalkan bidang lomba yang
 ## Prosedur Pendaftaran
 
 1. Periode pendaftaran _workshop_ ada di tanggal 00 September - 00 September 2026.
-2. Peserta dapat mendaftar melalui URL berikut: [https://clips.id/FormRegistrasiPesertaCodEx2026](https://clips.id/FormRegistrasiPesertaCodEx2026).
+2. Peserta dapat mendaftar melalui URL berikut dengan akun UB: [https://clips.id/FormRegistrasiPesertaCodEx2026](https://clips.id/FormRegistrasiPesertaCodEx2026).
 3. Setelah mendaftar, peserta dapat bergabung ke grup WhatsApp yang tercantum pada pesan di akhir pengisian form.
 4. Bagi peserta yang mengalami kendala pada proses pendaftaran dimohon untuk segera menghubungi narahubung perlombaan yang tertera di akhir halaman ini.
 
