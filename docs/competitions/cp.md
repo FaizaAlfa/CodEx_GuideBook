@@ -46,7 +46,7 @@ Competitive Programming adalah kompetisi yang diadakan untuk menguji kemampuan d
 
 | Tanggal                            | Kegiatan          | Keterangan                    |
 |------------------------------------|-------------------|-------------------------------|
-| 05 September - 20 September 2026   | Pendaftaran       | Dilakukan pada URL di atas    |
+| 08 September - 20 September 2026   | Pendaftaran       | Dilakukan pada URL di atas    |
 | 4 Oktober 2026                     | Pelaksanaan Lomba | Ruang GKM 4.2                 |
 | 4 Oktober 2026                     | Pengumuman        | Ruang GKM 4.2                 |
 
@@ -82,13 +82,13 @@ Competitive Programming adalah kompetisi yang diadakan untuk menguji kemampuan d
 ### Penghargaan
 
 
-Seluruh peserta akan mendapatkan sertifikat. Bagi pemenang (Juara 1, 2, 3) diberikan penghargaan berupa sertifikat dan hadiah rahasia sesuai peringkat juara.
+Seluruh peserta akan mendapatkan sertifikat. Bagi pemenang (Juara 1, 2, 3) diberikan penghargaan berupa sertifikat dan hadiah sesuai peringkat juara.
 
-| Peringkat           | Penghargaan            |
-|---------------------|------------------------|
-| Juara 1             | Secret                 |
-| Juara 2             | Secret                 |
-| Juara 3             | Secret                 |
+| Peringkat           | Penghargaan                                                      |
+|---------------------|------------------------------------------------------------------|
+| Juara 1             | Bottle + Totebag + Gantungan Kunci + **GOLDEN PASS CP BCC 2027** |
+| Juara 2             | Totebag + Gantungan Kunci + Stiker                               |
+| Juara 3             | Totebag + Stiker                                                 |
 
 Catatan: Khusus untuk peserta angkatan 2024, peringkat yang bisa didapatkan hanyalah **1 posisi**. Misalkan terdapat 2 peserta angkatan 2024 yang menempati peringkat manapun, maka peserta dengan peringkat lebih rendah akan dianulir. 
 

@@ -97,13 +97,15 @@ Capture The Flag adalah kompetisi pemecahan masalah yang dikaji sistem keamanan 
 
 Seluruh peserta akan mendapatkan sertifikat. Bagi pemenang (Juara 1, 2, 3) diberikan penghargaan berupa sertifikat dan hadiah rahasia sesuai peringkat juara.
 
-| Peringkat           | Penghargaan            |
-|---------------------|------------------------|
-| Juara 1             | Secret                 |
-| Juara 2             | Secret                 |
-| Juara 3             | Secret                 |
+| Peringkat           | Penghargaan                     |
+|---------------------|---------------------------------|
+| Juara 1             | **Freepass POROS 2027**         |
+| Juara 2             | Secret                          |
+| Juara 3             | Secret                          |
 
-Catatan: Khusus untuk peserta angkatan 2024, peringkat yang bisa didapatkan hanyalah **1 posisi**. Misalkan terdapat 2 peserta angkatan 2024 yang menempati peringkat manapun, maka peserta dengan peringkat lebih rendah akan dianulir. 
+Catatan: 
+- Jika yang mendapatkan **Juara 1** bukan dari Fakultas Ilmu Komputer Universitas Brawijaya (FILKOM UB) maka akan mendapatkan prize tambahan.
+- Khusus untuk peserta angkatan 2024, peringkat yang bisa didapatkan hanyalah **1 posisi**. Misalkan terdapat 2 peserta angkatan 2024 yang menempati peringkat manapun, maka peserta dengan peringkat lebih rendah akan dianulir. 
 
 ## Narahubung
 
