@@ -6,7 +6,7 @@ nav_order: 2
 
 # Workshop Codex 2026
 
-CODEX mengadakan _workshop_ dengan tujuan untuk memperkenalkan bidang lomba yang akan dikompetisikan, yaitu _Competitive Programming_ dan _Capture The Flag_ kepada mahasiswa yang tertarik terhadap bidang lomba tersebut. _Workshop_ ditujukan untuk mahasiswa Universitas Brawijaya dan akan diadakan secara _offline_ di GKM Filkom UB.
+CODEX mengadakan _workshop_ dengan tujuan untuk memperkenalkan bidang lomba yang akan dikompetisikan, yaitu _Competitive Programming_ dan _Capture The Flag_ kepada mahasiswa yang tertarik terhadap bidang lomba tersebut. _Workshop_ ditujukan untuk mahasiswa Universitas Brawijaya dan akan diadakan secara _offline_ di GKM FILKOM UB.
 
 ## Table of Contents
 
@@ -30,7 +30,7 @@ CODEX mengadakan _workshop_ dengan tujuan untuk memperkenalkan bidang lomba yang
 
 ## Prosedur Pendaftaran
 
-1. Periode pendaftaran _workshop_ ada di tanggal 05 September - 20 September 2026.
+1. Periode pendaftaran _workshop_ ada di tanggal 08 September - 20 September 2026.
 2. Peserta dapat mendaftar melalui URL berikut dengan akun UB: [https://clips.id/FormRegistrasiPesertaCodEx2026](https://clips.id/FormRegistrasiPesertaCodEx2026).
 3. Setelah mendaftar, peserta dapat bergabung ke grup WhatsApp yang tercantum pada pesan di akhir pengisian form.
 4. Bagi peserta yang mengalami kendala pada proses pendaftaran dimohon untuk segera menghubungi narahubung perlombaan yang tertera di akhir halaman ini.
@@ -40,7 +40,7 @@ CODEX mengadakan _workshop_ dengan tujuan untuk memperkenalkan bidang lomba yang
 
 | Tanggal                            | Kegiatan          | Keterangan                    |
 |------------------------------------|-------------------|-------------------------------|
-| 05 September - 20 September 2026   | Pendaftaran       | Dilakukan pada URL di atas    |
+| 08 September - 20 September 2026   | Pendaftaran       | Dilakukan pada URL di atas    |
 | Minggu, 27 September 2026          | Workshop          | Ruang GKM 3.1                 |
 
 ## Narahubung

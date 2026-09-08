@@ -36,7 +36,7 @@ Competitive Programming adalah kompetisi yang diadakan untuk menguji kemampuan d
 
 ## Prosedur Pendaftaran
 
-1. Periode pendaftaran lomba ada di tanggal 05 September - 20 September 2026. 
+1. Periode pendaftaran lomba ada di tanggal 08 September - 20 September 2026. 
 2. Peserta dapat mendaftar melalui URL berikut dengan akun UB: [https://clips.id/FormRegistrasiPesertaCodEx2026](https://clips.id/FormRegistrasiPesertaCodEx2026). 
 3. Setelah mendaftar, peserta dapat bergabung ke grup WhatsApp yang tercantum pada pesan di akhir pengisian form.
 4. Bagi tim yang mengalami kendala pada proses pendaftaran dimohon untuk segera menghubungi narahubung perlombaan yang tertera di akhir halaman ini.
@@ -86,7 +86,7 @@ Seluruh peserta akan mendapatkan sertifikat. Bagi pemenang (Juara 1, 2, 3) diber
 
 | Peringkat           | Penghargaan                                                      |
 |---------------------|------------------------------------------------------------------|
-| Juara 1             | Bottle + Totebag + Gantungan Kunci + **GOLDEN PASS CP BCC 2027** |
+| Juara 1             | Totebag + Bottle + Gantungan Kunci + **GOLDEN PASS CP BCC 2027** |
 | Juara 2             | Totebag + Gantungan Kunci + Stiker                               |
 | Juara 3             | Totebag + Stiker                                                 |
 
