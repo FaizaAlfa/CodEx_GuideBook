@@ -44,22 +44,22 @@ Capture The Flag adalah kompetisi pemecahan masalah yang dikaji sistem keamanan 
 ## Jadwal Perlombaan
 
 
-| Tanggal                             | Kegiatan          | Keterangan                    |
-|-------------------------------------|-------------------|-------------------------------|
-| 08 September - 20 September 2026    | Pendaftaran       | Dilakukan pada URL di atas    |
-| 28 September - 3 Oktober 2026       | Pelaksanaan Lomba | Dilakukan pada platform lomba |
-| 3 Oktober 2026                      | Penulisan Writeup | Dilakukan secara pribadi      |
-| 4 Oktober 2026                      | Pengumuman        | Dilakukan secara online       |
+| Tanggal                             | Kegiatan            | Keterangan                    |
+|-------------------------------------|---------------------|-------------------------------|
+| 08 September - 20 September 2026    | Pendaftaran         | Dilakukan pada URL di atas    |
+| 28 September - 1 Oktober 2026       | Pelaksanaan Lomba   | Dilakukan pada platform lomba |
+| 2 Oktober 2026                      | Pengumpulan Writeup | Dilakukan secara pribadi      |
+| 3 Oktober 2026                      | Pengumuman          | Dilakukan secara online       |
 
 ## Tahapan Lomba
 
 ### Kompetisi
 
-1. Kompetisi dilakukan secara _online_. _Platform_ kompetisi akan diinformasikan lebih lanjut menjelang pemanasan.
+1. Kompetisi dilakukan secara _online_. _Platform_ kompetisi akan diinformasikan lebih lanjut menjelang pelaksanaan lomba.
 2. Format kompetisi adalah _jeopardy_.
-3. Kompetisi akan dilakukan selama 5 hari dari tanggal 28 September 2026 pukul 09:00 WIB hingga 3 Oktober 2026 pukul 17:00 WIB. 
+3. Kompetisi akan dilakukan selama 4 hari dari tanggal 28 September 2026 pukul 09:00 WIB hingga 1 Oktober 2026 pukul 17:00 WIB. 
 4. _Scoreboard_ dari kompetisi akan dibekukan 1 jam sebelum kompetisi selesai. Selama _scoreboard_ dibekukan, setiap peserta tetap dapat mengerjakan dan melakukan _submit_ pada _flag_, tetapi skor akhir tidak akan ditampilkan pada _scoreboard_.
-5. Setelah kompetisi selesai, setiap peserta **wajib** membuat _write-up_, yaitu dokumen yang berisi langkah pengerjaan dari setiap tantangan yang berhasil diselesaikan, dan dikumpulkan di _form_ yang disediakan nantinya. Dokumen diharapkan memenuhi format penamaan `[NIM]_Writeup_Codex.pdf` (contoh: `265150200111067_Writeup_Codex.pdf`). Dokumen dikumpulkan maksimal pada tanggal 00 Oktober 2026 pukul 23:59 WIB. 
+5. Setelah kompetisi selesai, setiap peserta **wajib** membuat _write-up_, yaitu dokumen yang berisi langkah pengerjaan dari setiap tantangan yang berhasil diselesaikan, dan dikumpulkan di _form_ yang disediakan nantinya. Dokumen diharapkan memenuhi format penamaan `[NIM]_Writeup_Codex.pdf` (contoh: `265150200111067_Writeup_Codex.pdf`). Dokumen dikumpulkan maksimal pada tanggal 2 Oktober 2026 pukul 12:00 WIB. 
 
 ## Teknis Lomba
 

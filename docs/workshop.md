@@ -41,7 +41,7 @@ CODEX mengadakan _workshop_ dengan tujuan untuk memperkenalkan bidang lomba yang
 | Tanggal                            | Kegiatan          | Keterangan                    |
 |------------------------------------|-------------------|-------------------------------|
 | 08 September - 20 September 2026   | Pendaftaran       | Dilakukan pada URL di atas    |
-| Minggu, 27 September 2026          | Workshop          | Ruang GKM 3.1                 |
+| Minggu, 27 September 2026          | Workshop          | Ruang GKM 3.1 & GKM 4.2       |
 
 ## Narahubung
 

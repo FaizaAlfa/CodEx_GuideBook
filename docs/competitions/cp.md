@@ -47,15 +47,15 @@ Competitive Programming adalah kompetisi yang diadakan untuk menguji kemampuan d
 | Tanggal                            | Kegiatan          | Keterangan                    |
 |------------------------------------|-------------------|-------------------------------|
 | 08 September - 20 September 2026   | Pendaftaran       | Dilakukan pada URL di atas    |
-| 4 Oktober 2026                     | Pelaksanaan Lomba | Ruang GKM 4.2                 |
-| 4 Oktober 2026                     | Pengumuman        | Ruang GKM 4.2                 |
+| 3 Oktober 2026                     | Pelaksanaan Lomba | Ruang GKM 4.2                 |
+| 3 Oktober 2026                     | Pengumuman        | Ruang GKM 4.2                 |
 
 ## Tahapan Lomba
 
 ### Kompetisi
 
 1. Kompetisi dilakukan secara _offline_. Platform kompetisi yang digunakan adalah *DOMjudge*.
-2. Kompetisi akan dilakukan selama 3 jam pada tanggal 4 Oktober 2026 pukul 9.00 – 12.00 WIB. 
+2. Kompetisi akan dilakukan selama 3 jam pada tanggal 3 Oktober 2026 pukul 9.00 – 12.00 WIB. 
 
 ## Teknis & Peraturan Lomba
 
