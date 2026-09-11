@@ -106,6 +106,7 @@ Seluruh peserta akan mendapatkan sertifikat. Bagi pemenang (Juara 1, 2, 3) diber
 Catatan: 
 - Jika yang mendapatkan **Juara 1** bukan dari Fakultas Ilmu Komputer Universitas Brawijaya (FILKOM UB) maka akan mendapatkan prize tambahan.
 - Khusus untuk peserta angkatan 2024, peringkat yang bisa didapatkan hanyalah **1 posisi**. Misalkan terdapat 2 peserta angkatan 2024 yang menempati peringkat manapun, maka peserta dengan peringkat lebih rendah akan dianulir. 
+- ~~Cari repository github ini~~
 
 ## Narahubung
 
