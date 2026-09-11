@@ -33,3 +33,5 @@ Jika `ruby` atau `bundle` tidak dikenali, Ruby belum terpasang atau terminal bel
 ## Deploy
 
 Workflow GitHub Actions di `.github/workflows/pages.yml` membangun dan menerbitkan situs ke GitHub Pages setiap push ke branch `main`.
+
+__Selidiki lebih lanjut__
