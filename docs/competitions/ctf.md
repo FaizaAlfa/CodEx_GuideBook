@@ -26,7 +26,10 @@ Capture The Flag adalah kompetisi pemecahan masalah yang dikaji sistem keamanan 
   - [Narahubung](#narahubung)
 
 ## Ketentuan
-**NOTE: BAGI PESERTA YANG SUDAH MERAIH JUARA (termasuk harapan) DALAM ACARA CODEX 2025, TIDAK AKAN DAPAT MEMPEROLEH JUARA UNTUK ACARA CODEX 2026**
+NOTE: 
+- **BAGI PESERTA YANG SUDAH MERAIH JUARA (termasuk harapan) DALAM ACARA CODEX 2025, TIDAK AKAN DAPAT MEMPEROLEH JUARA UNTUK ACARA CODEX 2026**
+- **BAGI YANG SUDAH TERDAFTAR DI POROS TIDAK DIPERBOLEHKAN MENDAFTAR CODEX 2026**
+
 1. Peserta merupakan mahasiswa aktif Universitas Brawijaya angkatan 2024, 2025, atau 2026.
 2. Peserta mengikuti kompetisi secara individu dan dilarang bekerja sama dengan peserta lain.
 3. Peserta bersedia dan wajib mengikuti seluruh rangkaian acara, prosedur, dan ketentuan perlombaan.

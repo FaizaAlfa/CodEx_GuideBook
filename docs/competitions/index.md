@@ -10,7 +10,9 @@ nav_order: 3
 Kompetisi CODEX 2026 diadakan untuk dua bidang lomba, yaitu [_Competitive Programming_](./cp.html) dan [_Capture The Flag_](./ctf.html). Kompetisi diadakan untuk mahasiswa aktif Universitas Brawijaya angkatan 2024, 2025, atau 2026 secara individu pada tanggal 28 September - 3 Oktober 2026. Pendaftaran dibuka pada tanggal 08 September - 20 September 2026 pada URL berikut dengan akun UB: [https://clips.id/FormRegistrasiPesertaCodEx2026](https://clips.id/FormRegistrasiPesertaCodEx2026).
 
 Seluruh peserta akan mendapatkan sertifikat. Bagi pemenang setiap bidang lomba (Juara 1, 2, 3) diberikan penghargaan berupa sertifikat dan hadiah rahasia sesuai peringkat juara.
-**NOTE: BAGI PESERTA YANG SUDAH MERAIH JUARA (termasuk harapan) DALAM ACARA CODEX 2025, TIDAK AKAN DAPAT MEMPEROLEH JUARA UNTUK ACARA CODEX 2026**
+NOTE: 
+- **BAGI PESERTA YANG SUDAH MERAIH JUARA (termasuk harapan) DALAM ACARA CODEX 2025, TIDAK AKAN DAPAT MEMPEROLEH JUARA UNTUK ACARA CODEX 2026**
+- **BAGI YANG SUDAH TERDAFTAR DI ORGANISASI TERKAIT (POROS MAUPUN BCC) TIDAK DIPERBOLEHKAN MENDAFTAR CODEX 2026**
 
 
 | Peringkat           | Penghargaan                         |
