@@ -44,6 +44,8 @@ CODEX 2026 hadir sebagai ruang pembuktian sekaligus tempat tumbuh bagi seluruh m
 
 Kami mengadakan kegiatan ini sepenuhnya untuk membuka wawasan mahasiswa Universitas Brawijaya dan meningkatkan _skill_ masing-masing individu di bidang pemrograman dan keamanan siber. Oleh karena itu, ayo ikut _workshop_ CODEX untuk belajar mengenai hal tersebut dan juga ikut kompetisi CODEX untuk memenagkan hadiah yang bakal direveal nanti! selain itu, bagi kalian para _sertif hunter_ juga wajib ikut karena seluruh peserta _workshop_ dan _competition_ pasti akan dapat sertifikat!
 
+F: "CODEX26{"
+
 ## Any Questions?
 
 Apabila terdapat informasi yang kurang jelas atau ada pertanyaan lainnya, dapat segera menghubungi narahubung berikut:

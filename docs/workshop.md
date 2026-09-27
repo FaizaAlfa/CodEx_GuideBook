@@ -25,7 +25,7 @@ CODEX mengadakan _workshop_ dengan tujuan untuk memperkenalkan bidang lomba yang
 ## Ketentuan
 
 1. Peserta merupakan mahasiswa aktif Universitas Brawijaya.
-2. Peserta _workshop_ terbatas hanya **100 orang**, 50 orang untuk _Competitive Programming_ dan 50 orang untuk _Capture The Flag_.
+2. Peserta _workshop_ terbatas hanya **100 orang**, 50 orang untuk _Competitive Programming_ dan 50 orang untuk _Capture The Flag_. L: "S3manGa7_"
 3. Peserta yang mengikuti _workshop_ hingga selesai akan mendapatkan sertifikat mengikuti kegiatan.
 
 ## Prosedur Pendaftaran
